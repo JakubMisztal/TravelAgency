@@ -1,0 +1,96 @@
+﻿[
+    {
+      "name": "Imperial Laguna by Faranda",
+      "country": "Meksyk",
+      "stars": 3,
+      "ppd": 320
+    },
+    {
+      "name": "Cancun Bay Resort",
+      "country": "Meksyk",
+      "stars": 4,
+      "ppd": 450
+    },
+    {
+      "name": "Iberostar Quetzal",
+      "country": "Meksyk",
+      "stars": 5,
+      "ppd": 690
+    },
+
+    {
+      "name": "Palia Puerto del Sol",
+      "country": "Hiszpania",
+      "stars": 3,
+      "ppd": 240
+    },
+    {
+      "name": "Playa Real Resort",
+      "country": "Hiszpania",
+      "stars": 4,
+      "ppd": 380
+    },
+    {
+      "name": "Playacalida",
+      "country": "Hiszpania",
+      "stars": 5,
+      "ppd": 600
+    },
+
+    {
+      "name": "Sea Gull",
+      "country": "Egipt",
+      "stars": 3,
+      "ppd": 270
+    },
+    {
+      "name": "Continental Hurghada",
+      "country": "Egipt",
+      "stars": 4,
+      "ppd": 360
+    },
+    {
+      "name": "Sharm Grand Plaza",
+      "country": "Egipt",
+      "stars": 5,
+      "ppd": 620
+    },
+
+    {
+      "name": "Ikaros Hotel",
+      "country": "Grecja",
+      "stars": 3,
+      "ppd": 220
+    },
+    {
+      "name": "Lida Corfu",
+      "country": "Grecja",
+      "stars": 4,
+      "ppd": 310
+    },
+    {
+      "name": "Labranda Sandy Beach Resort",
+      "country": "Grecja",
+      "stars": 5,
+      "ppd": 580
+    },
+
+    {
+      "name": "Cholchan Pattaya Resort",
+      "country": "Tajlandia",
+      "stars": 3,
+      "ppd": 290
+    },
+    {
+      "name": "Novotel Rayong",
+      "country": "Tajlandia",
+      "stars": 4,
+      "ppd": 410
+    },
+    {
+      "name": "Mytt Beach Hotel",
+      "country": "Tajlandia",
+      "stars": 5,
+      "ppd": 720
+    }
+  ]

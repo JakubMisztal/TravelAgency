@@ -18,11 +18,11 @@ namespace Travel_Agency_Console
         public List<int> choices = new List<int> { 0, 1, 2 };
         
 
-        public void loadHotels()    //metoda pobiera obiekty klasy Hotel z pliku o formacie ".json" i zapisuje je w liście
+        public void loadHotels()    //metoda pobiera obiekty klasy Hotel z pliku "list_of_hotels.json" i zapisuje je w liście obiektów Hotel
         {
             
-            string filename = "list_of_hotels.json";
-            string json_str = File.ReadAllText(filename);
+            string path = Directory.GetCurrentDirectory() + "\\list_of_hotels.json";
+            string json_str = File.ReadAllText(path);
             hotels = JsonConvert.DeserializeObject<List<Hotel>>(json_str);
         }
 
