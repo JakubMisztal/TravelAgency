@@ -1,1 +1,0 @@
-Jeżeli program nie może wykryć pliku "list_of_hotels.json" to należy go przenieść do domyślnego 
